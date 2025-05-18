@@ -1,0 +1,84 @@
+/* 4 - External */
+body {
+    padding-bottom: 500px;  
+}
+
+h3 {
+    color:green
+}
+
+
+/*classes */
+
+.paragraph {
+background-color: #000;
+color: aqua;
+padding: 5px;
+}
+
+/* ids */
+#exclusive-title {
+    background-color:purple;
+    color:yellow;
+    padding: 10px;
+    font-size: 40px;
+}
+
+/* ordem das regras */
+h2 {
+    border-bottom: 2px solid red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo {
+    border-bottom: 4px solid green;
+}
+
+/* Nome de cores */
+.color-name {
+    color: crimson;
+}
+
+/* Hex */
+.hex {
+    color: #55a398;
+}
+
+.hex-2{
+    color: #f805e4;
+}
+
+/* Aprofundando em hex */
+.simple-hex {
+    color: #333;
+}
+
+.simple-hex-2 {
+    color: #A5f;
+}
+
+/* RGB */
+.rgb {
+    color: rgb(255, 0, 0);
+}
+
+.mixed-rgb {
+    color: rgb(199, 21, 47);
+}
+
+/* RGBA */
+.rgba{
+    color: rgba(100, 199, 45);
+}
+
+/* HSL */
+.hsl {
+    color: hsl(100, 20%, 50%);
+}
+
+.hsl-2 {
+color: hsl(201, 44%, 69%);
+}
